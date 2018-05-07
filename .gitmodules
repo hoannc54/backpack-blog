@@ -1,0 +1,3 @@
+[submodule "packages/hoannc54/backpack-news"]
+	path = packages/hoannc54/backpack-news
+	url = git@github.com:hoannc54/backpack-news.git
